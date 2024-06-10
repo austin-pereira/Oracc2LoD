@@ -22,3 +22,8 @@ To replicate any of our results you will need to download and change the file di
 * Last name: Kim
   * Affiliation: Data Discovery research student at UC Berkeley (2022-2023)
   * Role: Minoo contributed to this project by developing the sux-gloss.ipynb Jupyter Notebook.
+
+* First name: Austin
+* Last name: Pereira
+  * Affiliation: UC Berkeley, Computer Science (2023-2025)
+  * Role: Austin contributed to this project by developing and verifying github books that were used for github pages and also testing and fixing code written 3 years ago.
